@@ -1,0 +1,3 @@
+NOMBRE: Jimmy Perez Mamani
+Carrera: Ingenieria de sistemas
+Correo: jimmy.perez@uab.edu.bo
